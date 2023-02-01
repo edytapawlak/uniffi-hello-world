@@ -1,0 +1,5 @@
+namespace mathrust {
+  u32 add(u32 a, u32 b);
+  string hello();
+  void hello2();
+};
